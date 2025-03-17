@@ -1,5 +1,6 @@
 {
-  "name": "astro-blog-starter-template",
+// astro-blog-starter-template/wrangler.json
+  "name": "dark-term-c34f",  
   "compatibility_date": "2024-11-01",
   "compatibility_flags": ["nodejs_compat"],
   "main": "./dist/_worker.js/index.js",
